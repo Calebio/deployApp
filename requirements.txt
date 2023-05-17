@@ -1,7 +1,10 @@
+altair
 boto3
+ccxt
+google
+gspread
 pandas
 regex
 requests
-numpy
-s3fs==0.4*
+s3fs==0.4.*
 streamlit==1.1.*
