@@ -1,8 +1,4 @@
-altair
 boto3
-ccxt
-google
-gspread
 pandas
 regex
 requests
